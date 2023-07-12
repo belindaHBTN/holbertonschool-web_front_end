@@ -1,9 +1,7 @@
-/* set scroll fluidly */
 html {
     scroll-behavior: smooth;
 }
 
-/* set the foreground colors */
 body {
     color: #161616;
 }
